@@ -1,1 +1,1 @@
-# stats-preview-card-component.v.1
+# stats-preview-card-component
